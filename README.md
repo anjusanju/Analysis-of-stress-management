@@ -1,4 +1,4 @@
-# Analysis-of-stress-management
+# PREDICTION OF STRESS 
 Its a stress management prediction analysis. The data set is taken from the Kaggle. ML model are used to predict. 
 The ML model used are KNN classsifier, Bernoulli Naive Baiyes, Random forest Classifer. The below snapshot can be infered. 
 
